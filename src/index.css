@@ -1,0 +1,7 @@
+* {
+  overflow-x: hidden !important;
+}
+
+.heading {
+  size: 100px;
+}
